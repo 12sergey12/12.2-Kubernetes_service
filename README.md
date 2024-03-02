@@ -267,7 +267,7 @@ root@baranov:/home/baranovsa/12.2-Kubernetes_service#
 
 ![monitoring](https://github.com/12sergey12/12.2-Kubernetes_service/blob/main/images/12.2-1.3_curl.png)
 
-![monitoring]()
+![monitoring](https://github.com/12sergey12/12.2-Kubernetes_service/blob/main/images/12.2-curl_web.png)
 
 
 
