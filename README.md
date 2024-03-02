@@ -25,7 +25,7 @@
 
 1. Создать манифест (yaml-конфигурацию) Pod.
 
-[pod-echo-default.yaml]()
+[pod-echo-default.yaml](https://github.com/12sergey12/12.2-Kubernetes_service/blob/main/images/12.2-1.3_curl.png)
 
 ```
 apiVersion: v1
@@ -100,7 +100,7 @@ Request Body:
 
 root@baranov:/home/baranovsa# 
 ```
-![monitoring]()
+![monitoring](https://github.com/12sergey12/12.2-Kubernetes_service/blob/main/images/12.2-1.3_curl.png)
 
 ------
 
@@ -108,7 +108,7 @@ root@baranov:/home/baranovsa#
 
 1. Создать Pod с именем netology-web.
 
-[pod-netology-web-default.yaml]()
+[pod-netology-web-default.yaml](https://github.com/12sergey12/12.2-Kubernetes_service/blob/main/images/12.2-1.3_curl.png)
 
 ```
 apiVersion: v1
@@ -200,7 +200,7 @@ Request Body:
 root@baranov:/home/baranovsa/12.2-Kubernetes_service#
 ```
 
-![monitoring]()
+![monitoring](https://github.com/12sergey12/12.2-Kubernetes_service/blob/main/images/12.2-1.3_curl.png)
 
 
 ```
@@ -265,13 +265,10 @@ root@baranov:/home/baranovsa/12.2-Kubernetes_service#
 
 ```
 
-![monitoring]()
+![monitoring](https://github.com/12sergey12/12.2-Kubernetes_service/blob/main/images/12.2-1.3_curl.png)
 
 ![monitoring]()
 
-![monitoring]()
-
-![monitoring]()
 
 
 ------
